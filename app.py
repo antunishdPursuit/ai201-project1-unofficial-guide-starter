@@ -22,6 +22,7 @@ EXAMPLES = [
     "When did 2NE1 disband and which member left before that?",
     "What individual agencies did the BLACKPINK members set up?",
     "Which girl groups are under YG Entertainment?",
+    "When did S.E.S disband?",
 ]
 
 
@@ -201,7 +202,7 @@ with gr.Blocks(title="The Unofficial Guide — K-pop") as demo:
 
 
 if __name__ == "__main__":
-    ASSETS.mkdir(exist_ok=True)
+    ASSETS.mkdir(exist_ok=True) 
 
     style_path = ASSETS / "_style.css"
     style_path.write_text(CSS, encoding="utf-8")
