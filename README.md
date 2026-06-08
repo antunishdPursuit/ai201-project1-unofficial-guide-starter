@@ -47,6 +47,8 @@ All ten documents are member-profile pages from the fan-maintained site **kprofi
 
 **Chunk size:** One chunk per member and one group-header chunk per document. Any member whose chunk would exceed **500 tokens** (a safety margin under bge-small's 512-token limit) is packed into sequential sub-chunks on line boundaries, each re-prefixed with a `<Group> — <Member>` context header. Final token distribution: **min 33, median 396, max 500.**
 
+**Why this fits the documents:** Every profile follows the same template — a group header followed by a repeating block per member — and a member's block is a self-contained semantic unit. Splitting on member boundaries means a question like "Who is aespa's maknae?" maps cleanly to a single chunk instead of being diluted across a fixed-size cut or split mid-member.
+
 **Overlap:** None because splits happen on natural member/line boundaries and every (sub-)chunk repeats the `<Group> — <Member>` header.
 
 **Preprocessing before chunking:** Removed the site-header block, image-caption lines, "Show more … fun facts" links, and empty "Official Logo:" placeholders.
@@ -71,6 +73,46 @@ Dara, Park Bom, and Minzy. They debuted on May 17, 2009 ... Minzy left the band 
 On November 25, 2016, YG announced that 2NE1 disbanded. ...
 2NE1 Official Fandom Name: BlackJacks   |   Official Colors: Hot Pink   |   SNS: @2ne1xxi ...
 ```
+
+**2. Member chunk (whole) — source: `2NE1 Members Profile.md`** (405 tokens)
+```
+2NE1 — Minzy
+Minzy
+Stage name: Minzy (민지)  Birth name: Gong Minji (공민지)
+Position: Main Dancer, Lead Vocalist, Lead Rapper, Maknae  ...
+Minzy Facts:
+– She's the granddaughter of famous traditional dancer Gong Ok-jin.
+– YGE announced Minzy is leaving the group on April 5, 2016 ...
+– In October 2020 Minzy launched her own agency, MZ Entertainment. ...
+```
+
+**3. Member chunk (split, part 1/2) — source: `aespa Members Profile.md`** (490 tokens)
+```
+aespa — NingNing
+NingNing
+Stage Name: NingNing (닝닝)  ...  Position(s): Main Vocalist, Maknae  Nationality: Chinese
+Ningning Facts:
+– She was born in Harbin, China.  – Her hobby is cooking.  ...
+```
+
+**4. Member chunk (split, part 1/3) — source: `BTS Members Profile.md`** (496 tokens)
+```
+BTS — Jung Kook
+Jung Kook
+Stage Name: Jung Kook / Jungkook (정국)  Position(s): Main Vocalist, Lead Dancer, ..., Maknae
+Jung Kook Facts:
+– He was born in Busan, South Korea.  – Before joining the group he was a handball player. ...
+```
+
+**5. Member chunk (split, part 2/3) — source: `BTS Members Profile.md`** (396 tokens)
+```
+BTS — Jung Kook
+Note 2: The listed heights are taken from BTS's official site ... Jungkook confirmed his height
+is 177 cm ("Stationhead Radio" Oct 1, 2023). ...
+For reference on MBTI types: E = Extroverted, I = Introverted ...
+```
+*(This last chunk shows a known limitation: trailing document-level Notes attach to the last member of a document — see Failure Case Analysis.)*
+
 ---
 
 ## Embedding Model
@@ -106,7 +148,7 @@ Each retrieved chunk is wrapped as `[Document N — <Group> / <Member> (source: 
 
 ## Retrieval Test Results
 
-<!-- 1 queries with top returned chunks; for at least 2, why the chunks are relevant. -->
+<!-- At least 3 queries with top returned chunks; for at least 2, why the chunks are relevant. -->
 
 Top results from ChromaDB (cosine distance; lower = closer). bge-small + top-k=5.
 
@@ -119,8 +161,67 @@ Top results from ChromaDB (cosine distance; lower = closer). bge-small + top-k=5
 
 *Why relevant:* The group-header chunk contains the exact explanation ("æ" from "Avatar X Experience" + "aspect") and ranks first by a wide margin; the other hits are aespa member chunks, i.e. correct group, adjacent context.
 
+**Query B — "When did 2NE1 disband and which member left before that?"**
+| rank | chunk | distance |
+|---|---|---|
+| 1 | 2NE1 — Group Info | **0.238** |
+| 2 | BIGBANG — Group Info | 0.401 |
+| 3 | H.O.T. — Group Info | 0.401 |
+
+*Why relevant:* The 2NE1 group header contains both facts (Minzy left April 2016; disbanded Nov 25 2016) and ranks first. Ranks 2–3 are other groups' headers — semantically near because they also describe debut/disbandment timelines, but clearly farther in distance.
+
+**Query C — "Which girl groups are under YG Entertainment?"**
+| rank | chunk | distance |
+|---|---|---|
+| 1 | 2NE1 — Group Info | 0.371 |
+| 2 | BLACKPINK — Group Info | 0.380 |
+| 3 | Girls' Generation SNSD — Group Info | 0.399 |
+| 4 | S.E.S — Group Info | 0.407 |
+
+The two correct YG groups rank 1–2, but SM groups (SNSD, S.E.S) appear at 3–4 — see Failure Case Analysis.
+
 ---
 
+## Example Responses
+
+<!-- At least 2 responses with source attribution visible, plus one out-of-scope refusal. -->
+
+**Example 1 — "What individual agencies did the BLACKPINK members set up?"**
+> Jennie — ODD ATELIER; Lisa — LLOUD; Jisoo — BLISSOO; Rosé — signed with THEBLACKLABEL.
+>
+> **Retrieved from:** • BLACKPINK Members Profile.md
+
+**Example 2 — "When did 2NE1 disband and which member left the group before that?"**
+> 2NE1 disbanded on November 25, 2016. Before that, Minzy left the band in April 2016.
+>
+> **Retrieved from:** • 2NE1 Members Profile.md • BIGBANG Members Profile.md • H.O.T. Members Profile.md • EXO Members Profile.md
+
+**Example 3 (out-of-scope) — "Who is the leader of TWICE?"** *(TWICE is not in the corpus)*
+> I don't have enough information on that.
+>
+> *(no sources listed)*
+
+---
+
+## Query Interface
+
+<!-- Describe the input and output fields, and a sample interaction transcript. -->
+
+A **Gradio** web app (`python app.py` → http://localhost:7860):
+- **Input:** a "Your question" text box (Enter or the **Ask** button submits). A left sidebar lists clickable example questions.
+- **Output:** an **Answer** box (the grounded response) and a **Retrieved from** box (the source documents). The page has a centered title and a TWICE background image.
+
+**Sample transcript:**
+```
+Your question:  Who is the maknae of aespa and what is her nationality?
+
+Answer:         The maknae of aespa is NingNing, and her nationality is Chinese.
+
+Retrieved from: • aespa Members Profile.md
+                • BLACKPINK Members Profile.md
+```
+
+---
 
 ## Evaluation Report
 
@@ -129,7 +230,7 @@ Top results from ChromaDB (cosine distance; lower = closer). bge-small + top-k=5
 | # | Question | Expected answer | System response (summarized) | Retrieval quality | Response accuracy |
 |---|----------|-----------------|------------------------------|-------------------|-------------------|
 | 1 | Who is the maknae of aespa and what is her nationality? | NingNing; Chinese | "The maknae of aespa is NingNing, and her nationality is Chinese." | Partially relevant | Accurate |
-| 2 | When did S.E.S disband? | Decemeber 2002" | S.E.S officially disbanded in December 2002. | Relevant | Accurate |
+| 2 | When did S.E.S disband? | December 2002 | "S.E.S officially disbanded in December 2002." | Relevant | Accurate |
 | 3 | When did 2NE1 disband and which member left before that? | Minzy left Apr 2016; disbanded Nov 25 2016 | "2NE1 disbanded on November 25, 2016. Before that, Minzy left the band in April 2016." | Relevant | Accurate |
 | 4 | What individual agencies did the BLACKPINK members set up? | Jennie→ODD ATELIER, Lisa→LLOUD, Jisoo→BLISSOO, Rosé→THEBLACKLABEL | "According to the context documents, the individual agencies set up by the BLACKPINK members are: 1. Jennie - ODD ATELIER 2. Lisa - LLOUD 3. Jisoo - BLISSOO 4. Rosé - (signed with THEBLACKLABEL, but did not set up her own agency)" | Relevant  | Accurate |
 | 5 | Which girl groups are under YG Entertainment? | 2NE1 and BLACKPINK | "According to the provided context documents, the girl groups under YG Entertainment are: 1. 2NE1 2. BLACKPINK" | Partially relevant | Accurate |

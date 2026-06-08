@@ -64,23 +64,47 @@ html, body, .gradio-container {{
 
 .gradio-container {{
     background: {_background()};
+    background-color: #f5f5f5;
 }}
 
-/* Keeps the app from stretching too wide */
-.contain {{
-    max-width: 1300px;
-    margin: 0 auto;
+/* Soft overlay so the background image is less distracting */
+.gradio-container::before {{
+    content: "";
+    position: fixed;
+    inset: 0;
+    background: rgba(255, 255, 255, 0.30);
+    pointer-events: none;
+    z-index: 0;
+}}
+
+.gradio-container > * {{
+    position: relative;
+    z-index: 1;
+}}
+
+/* Centers the whole app section */
+#page {{
+    width: min(1400px, calc(100vw - 64px));
+    margin: 0 auto !important;
+    padding-top: 22px;
+}}
+
+#content-row {{
+    width: 100%;
+    margin: 0 auto !important;
+    gap: 18px;
 }}
 
 /* Readable title area */
 #title {{
     text-align: center;
-    background: rgba(0, 0, 0, 0.55);
+    background: rgba(0, 0, 0, 0.62);
     color: white;
     border-radius: 16px;
     padding: 18px 24px;
-    margin: 18px auto 24px auto;
+    margin: 0 auto 28px auto;
     max-width: 760px;
+    box-shadow: 0 8px 28px rgba(0, 0, 0, 0.22);
 }}
 
 #title h1 {{
@@ -93,7 +117,7 @@ html, body, .gradio-container {{
     margin-bottom: 0;
 }}
 
-/* Light panels over the background photo */
+/* Light panels */
 #sidebar, #main {{
     background: rgba(255, 255, 255, 0.94) !important;
     border-radius: 16px;
@@ -112,19 +136,52 @@ html, body, .gradio-container {{
     color: #111 !important;
 }}
 
-/* Sidebar heading */
 #sidebar h3 {{
     color: #111 !important;
     margin-top: 0;
 }}
 
-/* Example buttons */
+/* Force Gradio examples to stack vertically in Chrome */
+#sidebar .samples,
+#sidebar .examples,
+#sidebar .dataset,
+#sidebar .table-wrap {{
+    width: 100% !important;
+}}
+
+#sidebar table {{
+    width: 100% !important;
+    display: block !important;
+}}
+
+#sidebar tbody {{
+    display: block !important;
+    width: 100% !important;
+}}
+
+#sidebar tr {{
+    display: block !important;
+    width: 100% !important;
+    margin-bottom: 8px !important;
+}}
+
+#sidebar td {{
+    display: block !important;
+    width: 100% !important;
+    padding: 0 !important;
+}}
+
 #sidebar button {{
-    background: rgba(255, 255, 255, 0.95) !important;
+    width: 100% !important;
+    display: block !important;
+    background: rgba(255, 255, 255, 0.98) !important;
     color: #111 !important;
     border: 1px solid #999 !important;
     border-radius: 8px !important;
     text-align: left !important;
+    white-space: normal !important;
+    line-height: 1.35 !important;
+    padding: 8px 10px !important;
 }}
 
 #sidebar button:hover {{
@@ -144,10 +201,27 @@ html, body, .gradio-container {{
     color: #aaa !important;
 }}
 
-/* Button spacing */
 #main button {{
     margin-top: 8px;
     margin-bottom: 12px;
+}}
+
+/* Better mobile behavior */
+@media screen and (max-width: 900px) {{
+    #page {{
+        width: calc(100vw - 24px);
+        padding-top: 12px;
+    }}
+
+    #title {{
+        margin-left: 0;
+        margin-right: 0;
+    }}
+
+    #sidebar, #main {{
+        margin-left: 0;
+        margin-right: 0;
+    }}
 }}
 """
 
@@ -176,33 +250,34 @@ with gr.Blocks(title="The Unofficial Guide — K-pop") as demo:
         render=False,
     )
 
-    gr.Markdown(
-        "# The Unofficial Guide — K-pop Idol Groups\n"
-        "Answers come **only** from the indexed profile documents.",
-        elem_id="title",
-    )
+    with gr.Column(elem_id="page"):
+        gr.Markdown(
+            "# The Unofficial Guide — K-pop Idol Groups\n"
+            "Answers come **only** from the indexed profile documents.",
+            elem_id="title",
+        )
 
-    with gr.Row(elem_classes=["contain"]):
-        with gr.Column(scale=2, elem_id="sidebar"):
-            gr.Markdown("### Example questions")
-            gr.Examples(
-                examples=EXAMPLES,
-                inputs=inp,
-                label="",
-            )
+        with gr.Row(elem_id="content-row"):
+            with gr.Column(scale=2, elem_id="sidebar"):
+                gr.Markdown("### Example questions")
+                gr.Examples(
+                    examples=EXAMPLES,
+                    inputs=inp,
+                    label="",
+                )
 
-        with gr.Column(scale=3, elem_id="main"):
-            inp.render()
-            btn = gr.Button("Ask", variant="primary")
-            answer.render()
-            sources.render()
+            with gr.Column(scale=3, elem_id="main"):
+                inp.render()
+                btn = gr.Button("Ask", variant="primary")
+                answer.render()
+                sources.render()
 
     btn.click(handle_query, inputs=inp, outputs=[answer, sources])
     inp.submit(handle_query, inputs=inp, outputs=[answer, sources])
 
 
 if __name__ == "__main__":
-    ASSETS.mkdir(exist_ok=True) 
+    ASSETS.mkdir(exist_ok=True)
 
     style_path = ASSETS / "_style.css"
     style_path.write_text(CSS, encoding="utf-8")
