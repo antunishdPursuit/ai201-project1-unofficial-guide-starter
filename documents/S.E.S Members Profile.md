@@ -2,12 +2,6 @@
 
 Source URL: https://kprofiles.com/s-e-s-members-profile/
 
-
-kprofiles.com
-S.E.S Members Profile
-sowonella
-5–6 minutes
-
 S.E.S Members Profile 2018: S.E.S Facts, S.E.S Ideal Types
 
 S.E.S (에스이에스) is a 3-member South Korean girl group trio under SM Entertainment. The group currently consists of Bada (Sea), Eugene, and Shoo. S.E.S officially debuted on November 1, 1997. They were the first girl group to debut under SM Entertainment. The group officially disbanded in December 2002, after Bada’s and Eugene’s contracts expired. In October 2016, it was announced that the trio would be returning to celebrate their 20th anniversary since debut.

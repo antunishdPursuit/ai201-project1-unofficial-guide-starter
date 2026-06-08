@@ -2,14 +2,7 @@
 
 Source URL: https://kprofiles.com/exo-members-profile
 
-
-kprofiles.com
-EXO Members Profile
-KProfiles
-19–25 minutes
-
 EXO Members Profile and Facts:
-EXO REVERXE Crown Group Photo
 EXO (엑소) is a 9-member South Korean boy group that currently consists of: Suho, Xiumin, Lay, Baekhyun, Chen, Chanyeol, D.O., Kai, and Sehun. On April 8, 2022, Lay announced his departure from SM Ent., no details regarding his possible future activities as an EXO member have been given, however, as of 2025 he has been removed as a member of EXO on SM’s official website. Despite being removed from the official website, Lay will be participating in EXO’s upcoming comeback, REVERXE. Former members: Kris, Tao and Luhan. They debuted as a 12-member group on April 8, 2012, under SM Entertainment, with their first mini album, MAMA.
 
 Group Name Meaning: It’s short for EXOplanet
@@ -33,7 +26,6 @@ bilibili: EXO
 
 EXO Member Profiles:
 Suho
-SUHO EXO REVERXE Crown Photo 1
 Stage Name: Suho (수호)
 Birth Name: Kim Jun-myeon (김준면)
 Position(s): Leader, Lead Vocalist, Visual
@@ -66,7 +58,6 @@ Suho Facts:
 – He used to share a room with Sehun, but they have separate rooms now.
 – Suho is friends with Minho of SHINee since their college days. (KBS Exciting India)
 – On May 14, 2020, Suho enlisted in the military. He was discharged on February 13, 2022.
-Show more Suho fun facts…
 
 Xiumin
 
@@ -106,10 +97,8 @@ Xiumin Facts:
 – On September 26, 2022, he debuted as a soloist with the mini album Brand New.
 – Xiumin’s solo activities is handled by the label INB100.
 – He unfortunately won’t participate in EXO’s REVERXE.
-Show more Xiumin fun facts…
 
 Lay
-LAY EXO REVERXE Crown Photo 1
 Stage Name: Lay (레이)
 Birth Name: Zhang Jiashuai, his legalized name is Zhang Yixing (张艺兴)
 Position(s): Main Dancer, Sub-Vocalist, Sub-Rapper
@@ -152,7 +141,6 @@ Lay Facts:
 – He made a comeback with EXO in June 2021 with EXO’s mini-album Don’t Fight The Feeling.
 – On April 8, 2022 Lay announced he has left SM Ent. after the conclusion of his 10-year contract with the company. No details regarding his possible future activities as an EXO member have been given.
 – In October 2025, Lay was confirmed to join EXO’s upcoming group activities, ending his hiatus.
-Show more Lay fun facts…
 
 Baekhyun
 
@@ -195,7 +183,6 @@ Baekhyun Facts:
 – He enlisted in the military on May 6, 2021. He was discharged on February 5, 2023.
 – Baekhyun’s solo activities is handled by the label INB100.
 – He unfortunately won’t participate in EXO’s REVERXE.
-Show more Baekhyun fun facts…
 
 Chen
 
@@ -242,10 +229,8 @@ Chen Facts:
 – Chen enlisted on October 26, 2020. He was discharged on April 25, 2022.
 – His solo activities is handled by the label INB100.
 – He unfortunately won’t participate in EXO’s REVERXE.
-Show more Chen fun facts…
 
 Chanyeol
-CHANYEOL EXO REVERXE Crown Photo 1
 Stage Name: Chanyeol (찬열)
 Birth Name: Park Chan-yeol (박찬열)
 Position(s): Main Rapper, Sub-Vocalist, Visual
@@ -281,10 +266,8 @@ Chanyeol Facts:
 – Chanyeol confessed he cries the most among EXO members. (Star Show 360)
 – He dreams to be in a relationship with someone who likes to cook.
 – Chanyeol enlisted on March 29, 2021, and later completed it on September 28, 2022.
-Show more Chanyeol fun facts…
 
 D.O.
-D.O. EXO REVERXE Crown Photo 1
 Stage Name: D.O. (디오)
 Birth Name: Do Kyung-soo (도경수)
 Position: Main Vocalist
@@ -318,10 +301,8 @@ D.O. Facts:
 – He enlisted in the military on July 1st, 2019. He was discharged on January 25, 2021.
 – On October 18, 2023 it was announced that D.O. left SM Ent., however he is still an EXO member.
 – As of November 2023, he is under the agency 컴퍼니수수 (Company Soosoo) for his personal activities.
-Show more D.O. fun facts…
 
 Kai
-KAI EXO REVERXE Crown Photo 1
 Stage Name: Kai (카이)
 Birth Name: Kim Jong-in (김종인)
 Position(s): Main Dancer, Sub-Rapper, Sub-Vocalist, Center, Visual
@@ -356,10 +337,8 @@ Kai Facts:
 – He is part of SuperM.
 – Kai officially debuted as a soloist on November 30, 2020.
 – He enlisted on May 11, 2023 and was discharged on February 10, 2025.
-Show more Kai fun facts…
 
 Sehun
-SEHUN EXO REVERXE Crown Photo 1
 Stage Name: Sehun (세훈)
 Birth Name: Oh Se-hun (오세훈)
 Position(s): Lead Dancer, Lead Rapper, Visual, Maknae
@@ -394,7 +373,6 @@ Sehun Facts:
 – Sehun is a regular cast of variety show “Busted”.
 – Sehun is ranked 15th on TC Candler “The 100 Most Handsome Faces of 2018”.
 – Sehun enlisted on December 21, 2023. He was discharged on September 20, 2025.
-Show more Sehun fun facts…
 
 Former Members:
 Kris
@@ -425,7 +403,6 @@ Kris facts:
 – On May 15, 2014, Kris filed a lawsuit against SM asking for the termination of his contract and left EXO. (More details)
 – He was a special mentor (ep. 3) in “Produce 101 China” aka Chuang 2020.
 – In November 2022, a Chinese court sentenced Kris Wu to 13 years in prison on charges including r*pe.
-Show more Kris fun facts…
 
 Luhan
 Luhan
@@ -457,7 +434,6 @@ Luhan facts:
 – On October 8, 2017, Luhan posted on his Weibo that he’s dating the actress Guan Xiaotong.
 – Luhan is ranked 59th on TC Candler “The 100 Most Handsome Faces of 2018”.
 – He was a mentor in Produce 101 China aka Chuang 2020.
-Show more Luhan fun facts…
 
 Tao
 Tao
@@ -494,7 +470,6 @@ Tao Facts:
 – On 27th October 2017 it was announced that Seoul’s court made its final decision in favor of SM.
 – Tao had submitted an appeal, but on the 15th March 2018, the court dismissed Tao’s appeal, so, he has to continue his exclusive contract with SM Entertainment.
 – He was a mentor in “Produce 101 China” aka Chuang 2020.
-Show more Tao fun facts…
 
 Note 2: To clear up the confusion and a common misconception: Sub Vocalist/Sub Rapper and Vocalist/Rapper have the same meaning. The accurate terms used in South Korea are Main, Lead and Sub
 

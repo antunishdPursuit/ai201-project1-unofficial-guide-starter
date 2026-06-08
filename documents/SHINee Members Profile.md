@@ -2,14 +2,7 @@
 
 Source URL: https://kprofiles.com/shinee-members-profile
 
-
-kprofiles.com
-SHINee Members Profile
-KProfiles
-10–13 minutes
-
 SHINee Members Profile and Facts:
-SHINee Atmos Concept Photo Rain Ceremony
 SHINee (샤이니) is a South Korean boy group consisting of Onew, Key, Minho, and Taemin. Jonghyun passed away on December 18, 2017. They debuted on May 25, 2008, under SM Entertainment with their first mini album, Replay.
 
 Group Name Meaning: N/A
@@ -31,7 +24,6 @@ Weibo: @SHINee
 
 SHINee Member Profiles:
 Onew
-ONEW SHINee Atmos Concept Photo Rain Ceremony
 Stage Name: Onew (온유)
 Birth Name: Lee Jin-ki (이진기)
 Position(s): Leader, Main Vocalist
@@ -62,10 +54,8 @@ Onew Facts:
 – Onew enlisted on December 10, 2018 and was discharged on July 20, 2020.
 – On April 3, 2024, it was announced that Onew joined the new founded company, GRIFFIN Entertainment which will be handling all of his solo activities.
 – He is still under SM Ent., but only for group activities.
-See more facts about Onew…
 
 Key
-KEY SHINee Atmos Concept Photo Rain Ceremony
 Stage Name: Key (키)
 Birth Name: Kim Ki-bum (김기범)
 Position(s): Lead Rapper, Lead Dancer, Sub-Vocalist
@@ -102,10 +92,8 @@ Key Facts:
 – He has 2 toy poodles, named Comme Des and Garçon.
 – Key made his solo debut on November 6, 2018 with the pre–release single “Forever Yours“.
 – Key enlisted on March 4, 2019 and was discharged on October 7, 2020.
-See more facts about Key…
 
 Minho
-MINHO SHINee Atmos Concept Photo Rain Ceremony
 Stage Name: Minho (민호)
 Birth Name: Choi Min-ho (최민호)
 Position(s): Main Rapper, Sub-Vocalist, Visual
@@ -136,10 +124,8 @@ Minho Facts:
 – He speaks a bit of English.
 – On April 15, 2019 he enlisted at the Marine Corps training center and was discharged on November 15, 2020.
 – Minho made his solo debut with the mini-album Chase, on December 6, 2022.
-See more facts about Minho…
 
 Taemin
-TAEMIN SHINee Atmos Concept Photo Rain Ceremony
 Stage Name: Taemin (태민)
 Birth Name: Lee Tae-min (이태민)
 Position(s): Main Dancer, Sub-Vocalist, Maknae
@@ -176,7 +162,6 @@ Taemin Facts:
 – He enlisted in the military on May 31, 2021 and was discharged on April 3, 2023.
 – On March 6, 2024 Taemin confirmed via Bubble that he’ll be leaving SM Ent., however he’ll remain a member of SHINee.
 – On April 1, 2024, it was revealed that he’s now under Big Planet Made (BPM Entertainment), which will be handling all of his solo activities.
-See more facts about Taemin…
 
 Member for Eternity:
 Jonghyun
@@ -213,7 +198,6 @@ Jonghyun Facts:
 – Jonghyun dated actress Shin Se–kyung (2010–2011).
 – On January 12, 2015, he had his solo debut with his first mini album, “Base“.
 – Jonghyun passed away on December 18, 2017. He died from carbon monoxide poisoining and the police concluded that it was suicide.
-See more facts about Jonghyun…
 
 Note 2: Current listed positions are based on their official profile on Melon. We may have different opinions regarding positions, but we respect the publicly announced ones.
 

@@ -2,14 +2,7 @@
 
 Source URL: https://kprofiles.com/black-pink-members-profile/
 
-
-kprofiles.com
-BLACKPINK Members Profile
-KProfiles
-12–15 minutes
-
 BLACKPINK Members Profile and Facts:
-Blackpink 2025
 BLACKPINK (블랙핑크) is a 4-member girl group under YG Entertainment. The group consists of Jisoo, Jennie, Rosé, and Lisa. They debuted on August 8, 2016, with their first single album, Square One. On October 23, 2018, BLACKPINK has officially signed with the U.S. label Interscope Records. On December 29, 2023, all four members renewed their contracts with YG Entertainment for group activities, but chose to work independently for their individual activities. Lisa set up her own agency LLOUD, Jennie set up her own agency ODD ATELIER, Jisoo set up her agency BLISSOO and Rosé is signed with THEBLACKLABEL.
 
 Group Name Meaning: N/A
@@ -17,8 +10,6 @@ Official Greeting: “Hello. We are BLACKPINK!”
 
 BLACKPINK Fandom Name: BLINK
 BLACKPINK Official Colors: Black & Pink (Not officially announced, but officially used on group’s logo and merchandise)
-
-BLACKPINK Official Logo:
 
 Official SNS:
 Website: ygfamily.com/blackpink
@@ -31,7 +22,6 @@ Facebook: BLACKPINKOFFICIAL
 
 BLACKPINK Member Profiles:
 Jisoo
-Jisoo-Blackpink-2025
 Stage Name: Jisoo (지수)
 Birth Name: Kim Ji-soo (김지수)
 English Name: Veronica Kim
@@ -79,10 +69,8 @@ Jisoo Facts:
 – On August 3, 2023, it was reported that she’s dating actor, Ahn Bohyun, both of their agencies confirmed the relationship.
 – On October 24, 2023, it was revealed that the couple has since broken up due to their busy schedules.
 – Jisoo established her own company named BLISOO on February 21, 2024. In early 2025, she also joined U.S label Warner Music.
-Show more fun facts about Jisoo…
 
 Jennie
-Jennie-Blackpink-2025
 Stage Name: Jennie (제니)
 Birth Name: Kim Jennie (김제니)
 English Name: Jennie Ruby Jane
@@ -121,10 +109,8 @@ Jennie Facts:
 – On January 25, 2019, SM Entertainment confirmed that Jennie and Kai broke up,  in order to focus on their personal careers.
 – On February 24, 2021, Dispatch revealed that G-Dragon and Jennie have been dating for around a year. YG Ent. refused to comment on the matter.
 – Jennie established her own company named ODD ATELIER in November 2023. She is also represented by U.S label Columbia Records for her global promotions.
-Show more fun facts about Jennie…
 
 Rosé
-Rose-Blackpink-2025
 Stage Name: Rosé (로제)
 Birth Name: Roseanne Park
 Korean Name: Park Chae-young (박채영)
@@ -173,10 +159,8 @@ Rosé Facts:
 – She said if she was a guy, she would date Jennie because she can cook well. (AIIYL v-live)
 – Rosé debuted as a soloist on March 12, 2021, with the single album, -R-.
 – Rosé signed under The Black Label in June 2024. She is also represented by U.S label Atlantic Records for her global promotions.
-Show more fun facts about Rosé…
 
 Lisa
-Lisa-Blackpink-2025
 Stage Name: Lisa (리사)
 Birth Name: Pranpriya Manobal (ปราณปรียา มโนบาล), legalized to Lalisa Manobal (ลลิสา มโนบาล)
 Position(s): Main Dancer, Lead Rapper, Sub-Vocalist, Maknae
@@ -217,7 +201,6 @@ Lisa Facts:
 – Lisa ranked 1st on TC Candler “The 100 Most Beautiful Faces of 2021”.
 – She debuted as a soloist on September 10, 2021, with the single album, Lalisa.
 – Lisa established her own company named LLOUD and signed under US label RCA Records as of April 10, 2024.
-Show more fun facts about Lisa…
 
 Note 2: The current listed positions are based on the official BLACKPINK’s profile in Melon, as well on the Korean show “Get it Beauty” where the member positions have been revealed. We may have a different opinion on the positions, but we are respecting the publicly announced positions. When any updates regarding the positions appears, we’ll update the profile again.
 Jisoo: Link

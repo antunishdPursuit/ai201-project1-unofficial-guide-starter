@@ -2,22 +2,13 @@
 
 Source URL: https://kprofiles.com/big-bang-members-profile
 
-
-kprofiles.com
-BIGBANG Members Profile
-KProfiles
-8–10 minutes
-
 BIGBANG Members Profile and Facts:
-BIGBANG
 BIGBANG (빅뱅)  is a 3-member South Korean boy group, consisting of G-DRAGON, Taeyang, and Daesung. On March 11, 2019 Seungri announced that he left the entertainment industry. On May 31, 2023 T.O.P officially left. BIGBANG debuted on August 19, 2006, under YG Entertainment with their first single, BIGBANG. All members have left YG and are under different labels.
 
 Official Greeting: “Hello. BIG! BANG!”
 
 BIGBANG Official Fandom Name: VIP
 BIGBANG Official Fandom Color: There isn’t an official color, instead VIPs use either yellow crown light-sticks or black and white handkerchiefs.
-
-BIGBANG Official Logo:
 
 Official SNS:
 Website: (Japan): ygex.jp/bigbang
@@ -64,7 +55,6 @@ G-DRAGON Facts:
 – Enlisted on February 27, 2018. He returned on October 28th, 2019.
 – On December 20, 2023 he terminated his contract with YG Entertainment.
 – On December 21, 2023 it was announced that he signed with Galaxy Corporation.
-Show more G-DRAGON fun facts…
 
 Taeyang 
 
@@ -99,7 +89,6 @@ Taeyang Facts:
 – He’s ranked 41st on TC Candler “The 100 Most Handsome Faces of 2018”.
 – In November 2021, Taeyang and Hyorin welcomed their first child, a baby boy. (Source)
 – As of December 26, 2022, he’s under the label THEBLACKLABEL.
-Show more Taeyang fun facts…
 
 Daesung 
 
@@ -133,7 +122,6 @@ Daesung Facts:
 – On Dec. 26, 2022, his contract with YG Ent. ended, and he decided to part ways with the agency.
 – Despite his departure from the agency, he’s still a BIGBANG member.
 – On April 3, 2023 it was announced that he signed with R&D Company.
-Show more Daesung fun facts…
 
 Former Members:
 T.O.P
@@ -163,7 +151,6 @@ T.O.P. Facts:
 – He said he would date Taeyang if he was a girl.
 – T.O.P enlisted on February 9, 2017, he returned on July 6th 2019.
 – He officially left BIGBANG on May 31, 2023. He confirmed it on his Instagram account.
-Show more T.O.P fun facts…
 
 Seungri
 
@@ -194,5 +181,3 @@ Seungri Facts:
 – On August 12, 2021, Seungri was sentenced to a three-year prison term and a fine of 1.15 billion won (US$990,000).
 – On January 27, 2022, his prison sentence was reduced to 18 months.
 – On June 8, 2022, Seungri, who was imprisoned in a military prison, was discharged and transferred to Yeoju Prison. On February 9, 2023, Seungri was released from prison.
-Show more Seungri fun facts…
-

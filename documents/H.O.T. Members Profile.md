@@ -2,14 +2,7 @@
 
 Source URL: https://kprofiles.com/h-o-t-members-profile/
 
-
-kprofiles.com
-H.O.T. Members Profile
-jnunhoe
-6–8 minutes
-
 H.O.T. Members Profile: H.O.T. Facts
-H.O.T.
 H.O.T. (High Five of Teenagers) (에이치오티) consisted of 5 members: Moon Heejun, Jang Woohyuk, Tony An, Kangta, Lee Jaewon. H.O.T. debuted on September 7, 1996, under S.M Entertainment. H.O.T. disbanded in May 2001, but had a reunion on ToToGa3 with a concert on February 15, 2018.
 
 H.O.T. Fandom Name: Club H.O.T.
@@ -78,7 +71,6 @@ Jang Woohyuk facts:
 – His favorite season is fall.
 – He can skateboard.
 – Woohyuk’s ideal type is someone quiet, has long hair, and is “lady like”.
-Show more Woohyuk facts….
 
 Tony An
 Tony
@@ -108,7 +100,6 @@ Tony An facts:
 – He is sensitive to cold weather.
 – In November 2013, Tony was investigated for illegal online sports gambling alongside Lee Soogeun and Tak Jaehoon. He was sentenced six months in prison with one year probation.
 – Tony’s ideal type is someone who can understand him and is shorter than him; he doesn’t care what she looks like.
-Show more Tony Ahn fun facts…
 
 Kangta
 Kangta
@@ -143,7 +134,6 @@ Kangta facts:
 – Kangta was close friends with Hwansung of NRG.
 – He originally debuted as a backup dancer with Heejun for Yoo Youngjin
 – Kangta’s ideal type is someone cute, has puppy eyes, and semi-long hair. Someone who’s short, smart, kind, likes hiphop. Someone that makes him feel needed.
-Show more Kangta facts…
 
 Lee Jaewon
 Jaewon
@@ -177,5 +167,3 @@ Lee Jaewon facts:
 – He was voted the prettiest if he were a girl.
 – On January 10, 2015, Jaewon’s representatives announced that he was diagnosed with thyroid cancer in April of the previous year. He has since gotten surgery and recovered.
 – Jaewon’s ideal type is someone cute, bright, and short. Someone who’s about 170 cm.
-Show more Lee Jaewon facts…
-

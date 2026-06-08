@@ -2,12 +2,6 @@
 
 Source URL: https://kprofiles.com/2ne1-members-profile/
 
-
-kprofiles.com
-2NE1 Members Profile
-KProfiles
-7–9 minutes
-
 2NE1 Members Profile and Facts:
 
 2NE1 (투애니원) is a 4-member South Korean girl group under YG Entertainment, consisting of CL, Dara, Park Bom, and Minzy. They made their debut on May 17, 2009 with their first single, Fire. Minzy left the band in April 2016. On November 25, 2016, YG announced that 2NE1 disbanded. On July 22, 2024, YG Ent. announced that they re-signed with 2NE1 as a four member girl group with all of the members. They have since disbanded again after their contracts ended in 2025.
@@ -17,8 +11,6 @@ Official Greeting: “What’s up! We’re 2NE1!”
 
 2NE1 Official Fandom Name: BlackJacks
 2NE1 Official Fandom Color: Hot Pink
-
-2NE1 Official Logo:
 
 Official SNS:
 Instagram: @2ne1xxi
@@ -62,7 +54,6 @@ CL Facts:
 – She traveled to many places due to her father’s profession.
 – On October 2014, CL had her US debut, since then she has mostly focused on her solo activities in the US. In 2016, she kicked off her first ever solo tour in the US.
 – CL’s Ideal Type: “I like a man who is in his own world. While others may think he’s crazy, I like a man with individuality.”
-Show more CL fun facts…
 
 Bom
 
@@ -99,7 +90,6 @@ Bom Facts:
 – Park Bom was not charged or prosecuted for this, as it was revealed to be for medicinal use. The general public did not take well to this news, accusing Park Bom of abusing her celebrity status.
 – On July 20, 2018, it was announced that she had signed under D-Nation Entertainment, she is now a solo singer.
 – Bom’s Ideal Type is Jay-Z.
-Show more Park Bom fun facts…
 
 Dara
 
@@ -137,7 +127,7 @@ Dara Facts:
 – She speaks Korean, Tagalog, English, and Japanese. She said she forgot most of the Chinese she knew.
 – Sandara Park has continued to focus on her acting career as part of YG Entertainment, seeing huge success in her online dramas.
 – Dara’s Ideal Type: “I like a dependable person who can fit me in his arms, and someone who I have a common interest with. I like playing guitar, cats, and chicken.”
-Show more Dara fun facts…
+
 
 Minzy
 
@@ -173,6 +163,6 @@ Minzy Facts:
 – Minzy also joined the show and band “Unnies Slam Dunk 2”.
 – In October 2020 Minzy has launched her own agency, MZ Entertainment.
 – Minzy’s Ideal Type: When asked about her ideal type, Minzy responded that she likes older men.
-Show more Minzy fun facts…
+
 
 

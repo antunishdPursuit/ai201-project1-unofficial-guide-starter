@@ -2,14 +2,7 @@
 
 Source URL: https://kprofiles.com/aespa-members-profile/
 
-
-kprofiles.com
-aespa Members Profile
-hein, Eister Bunny
-8–11 minutes
-
 aespa Members Profile and Facts
-aespa LEMONADE Make It LEMONADE Concept Photo
 aespa (에스파), stylized as æspa, is a 4-member South Korean girl group under SM Entertainment, consisting of Karina, Giselle, Winter, and NingNing. They made their Korean debut on November 17, 2020, with the digital single, “Black Mamba“. They made their Japanese debut on July 3, 2024 with the single, “Hot Mess“. On June 2, 2022, it was announced that aespa has signed with Warner Records for global promotions.
 
 Group Name Meaning: Their name comes from combining “æ,” derived from “Avatar X Experience,” & “aspect.” The meaning behind the name is various innovative activities to come with the theme of “experiencing a new world via the encounter of the ‘avatar,’ your other self.”
@@ -18,8 +11,6 @@ Official Greeting: “Be my ae! Hi, we are æspa!”
 aespa Official Fandom Name: MY (마이)
 Fandom Name Meaning: ‘The most precious friend’ in KWANGYA, a virtual, parallel-dimension wilderness, where their avatars æ lives. Fans are the most precious to the members.
 aespa Official Colors: Aurora
-
-aespa Official Logo:
 
 Official SNS:
 Website (Japan): aespa-official.jp
@@ -33,7 +24,6 @@ Pinterest: aespa
 
 aespa Member Profiles:
 Karina
-KARINA aespa LEMONADE Make It LEMONADE Concept Photo
 Stage Name: Karina (카리나)
 Birth Name: Yu Ji-min (유지민)
 English Name: Katarina Yu
@@ -70,10 +60,8 @@ Karina Facts:
 – Her ideal type is a nice guy who likes only her, that has a pretty nose, and is taller than 180 cm (5’11 ft).
 – On February 27, 2024, SM Ent. and C-JeS confirmed that Karina is in a relationship with actor Lee Jae Wook.
 – On April 2, 2024 both M Ent. and C-JeS confirmed that Karina and Lee Jae Wook broke up.
-See more Karina fun facts…
 
 Giselle
-GISELLE aespa LEMONADE Make It LEMONADE Concept Photo
 Stage Name: Giselle (지젤)
 Birth Name: Uchinaga Aeri (内永枝利/うちながえり/우치나가에리)
 English Name: Giselle Uchinaga
@@ -108,10 +96,8 @@ Giselle Facts:
 – She was part of St. Mary’s Choir.
 – Giselle can play the guitar.
 – People think she looks like Krystal from f(x).
-See more Giselle fun facts…
 
 Winter
-WINTER aespa LEMONADE Make It LEMONADE Concept Photo
 Stage Name: Winter (윈터)
 Birth Name: Kim Min-jeong (김민정)
 Chinese Name: DongDong (冬冬)
@@ -145,10 +131,8 @@ Winter Facts:
 – Winter likes eating chocolate and sweets.
 – She sometimes cooks for her members.
 – On April 12, 2024 it was announced that Winter had undergone surgery for pneumothorax and will focus on recovery.
-See more Winter fun facts…
 
 NingNing
-NINGNING aespa LEMONADE Make It LEMONADE Concept Photo
 Stage Name: NingNing (닝닝)
 Birth Name: Ning Yizhuo (宁艺卓)
 English Name: Vivian Ning
@@ -187,7 +171,6 @@ Ningning Facts:
 – She appeared on a Chinese contest program Music Honors Student (音乐优等生).
 – Ningning participated in MBC’s Shining Star, which aired from October 16, 2017.
 – She became an SM trainee in 2016, and became a member of SM Rookies in the same year on September 19th.
-See more NingNing fun facts…
 
 
 Note 2: Their positions were presented in the Naver magazine. Source for Winter’s Main Vocalist position – several Korean news outlets: Officially Cool , NOBODY , Floral Sense , Synk Hyperline Concert

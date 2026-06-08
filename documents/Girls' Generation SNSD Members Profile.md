@@ -2,14 +2,7 @@
 
 Source URL: https://kprofiles.com/girls-generation-snsd-members-profile
 
-
-kprofiles.com
-Girls’ Generation (SNSD) Members Profile
-KProfiles
-18–23 minutes
-
 Girls’ Generation Members Profile and Facts:
-Girls' Generation Kpop girl group
 Girls’ Generation / SNSD (소녀시대) is a 8-member South Korean girl group that consists of Taeyeon, Sunny, Tiffany, Hyoyeon, Yuri, Sooyoung, Yoona, and Seohyun. Former member Jessica left the group on September 30th, 2014. Tiffany, Sooyoung, and Seohyun left S.M. Entertainment on October 9th, 2017 but they have remained in the group. SNSD debuted on August 5th, 2007, under SM Entertainment.
 
 Group Name Meaning: N/A
@@ -64,7 +57,6 @@ Taeyeon Facts:
 – She sold over 1 million physical albums, being one of the highest-selling South Korean female artists.
 – She endorsees a lot of brands, including luxury brand Louis Vuitton.
 –  Taeyeon’s Ideal Type: “Wouldn’t the most basic factor be the guy’s pretty smile? To make their smile shine, it would be nice to have a guy with a clear white skin and red lips. I wish their style would look natural no matter the location or time.”
-Show more Taeyeon fun facts…
 
 Sunny
 Sunny
@@ -103,7 +95,6 @@ Sunny Facts:
 – She left SM Entertainment on August 8, 2023.
 – She joined A2O Entertainment on April 7, 2025.
 – Sunny’s Ideal Type: “He has to be generous. I wish he is really kind and friendly to elders and children. Wouldn’t a guy like that have good manners with me too?”
-Show more Sunny fun facts…
 
 Tiffany
 Tiffany
@@ -148,7 +139,6 @@ Tiffany Facts:
 – On 27 June 2018, she made her debut in the US with the English single “Over My Skin”.
 – She announced her engagement to actor Byun Yohan. The wedding is set for autumn 2026.
 – Tiffany’s Ideal Type: “Appearance and personality are important, but I wish my guy would have a sense of responsibility. Someone who I can trust that’s not too easy, but not too pressuring either. Is my qualification too difficult to understand?”
-Show more Tiffany fun facts…
 
 Hyoyeon
 Hyoyeon
@@ -185,7 +175,6 @@ Hyoyeon Facts:
 – In December 2016, she released her first solo song, “Mystery” (via SM Station).
 – Hyoyeon starred in reality show Invincible Youth 2 with Bora (Sistar), Suzy (Miss A), Jiyoung (KARA) and Yewon (Jewelry).
 – Hyoyeon’s Ideal Type: “I want a guy without double eyelids. A smile with corners of lips lifted up would be nice. Sometimes, it wouldn’t be bad to have him lift up the atmosphere with his clumsiness. A good common sense is a must too.”
-Show more Hyoyeon fun facts…
 
 Yuri
 Yuri
@@ -223,7 +212,6 @@ Yuri Facts:
 – On August 28, 2016, Yuri and Seohyun released a song via SM Station, titled “Secret”.
 – On October 4, 2018, Yuri had her solo debut with mini album, The First Scene.
 – Yuri’s Ideal Type: “I wish he is really affectionate. A guy that shows his warmth even when you’re just looking at him. I can’t say that he’s a good guy if he’s fussy or sharp.”
-Show more Yuri fun facts…
 
  Sooyoung
 Sooyoung
@@ -262,7 +250,6 @@ Sooyoung Facts:
 – On 9 October 2017, it was announced that Sooyong left SM Ent. with the focus on acting.
 – Sooyoung signed with Echo Global Group.
 – Sooyoung’s Ideal Type: “I wish he would be passionate in whatever he does. If he has passion, then he’ll know what real love is and how to value his girl. Of course, humor and courtesy is a basic factor.”
-Show more Sooyoung fun facts…
 
 Yoona
 Yoona
@@ -301,7 +288,6 @@ Yoona Facts:
 – She had a relationship with actor Lee Seung-gi.
 – She gained the nickname “CF Queen” due to her many television commercials.
 – YoonA’s Ideal Type: “When you say ‘good guy’, I think of my dad. He never lost his calmness in any situation and comforted people considerately. Can I expect that kind of ‘consideration’ from the world’s best guy?”
-Show more Yoona fun facts…
 
 Seohyun
 Seohyun
@@ -347,7 +333,6 @@ Seohyun Facts:
 – She worked for a while with Sublime Artist Agency (no contract was set) but she left in May 2018.
 – In March 2019, Seohyun signed with new agency Namoo Actors.
 – Seohyun’s Ideal Type: “Courtesy is the most important factor. I wish he was a guy who can understand from the opposite point of view, and someone who I can always interact with a smile. Seeing a guy like him will probably make me feel better as well.”
-Show more Seohyun fun facts…
 
 Former Member:
 Jessica
@@ -381,5 +366,4 @@ Jessica Facts:
 – Specialties: English, piano, and singing.
 – She is currently a solo artist.
 – Jessica’s Ideal Type: “I want a guy who gives comfort right from their first impression. Like a person who you feel like you have known them for a long time. My heart moves towards a guy who is considerate and has humor and wit whenever we see each other to not have any uncomfortable moments.”
-Show more Jessica fun facts…
 

@@ -2,14 +2,7 @@
 
 Source URL: https://kprofiles.com/bts-bangtan-boys-members-profile/
 
-
-kprofiles.com
-BTS Members Profile
-KProfiles
-16–20 minutes
-
-‎BTS (Bangtan Boys) Members Profile and Facts:
-BTS Kpop boy group
+BTS (Bangtan Boys) Members Profile and Facts:
 BTS (방탄소년단) is a 7-member South Korean boy group under BIGHIT Music (part of HYBE Labels) that consists of: RM, Jin, Suga, J-Hope, Jimin, V, and Jung Kook. They debuted on June 13, 2013, with the lead single “No More Dream” on their first album, 2 Cool 4 Skool. On June 15, 2022, BIGHIT Music released an announcement stating that BTS would not go on hiatus, but will focus on releasing solo music for a while, however they’re expected to make a comeback in 2026.
 
 Group Name Meaning: Bangtan Boys
@@ -39,7 +32,6 @@ Weibo: @BTSbighit / @BTSmembers (Members)
 
 BTS Member Profiles:
 RM
-RM of BTS
 Stage Name: RM (아르엠) [formerly Rap Monster (랩몬스터)]
 Birth Name: Kim Nam-joon (김남준)
 Position(s): Leader, Main Rapper
@@ -78,10 +70,8 @@ RM Facts:
 – He made his official solo debut on December 2, 2022 with the full-length album Indigo.
 – On December 11, 2023, RM and V quietly enlisted at the Korean Army Training Center in Nonsan. RM was discharged on June 10, 2025.
 – RM’s ideal type: “sexy, even to a brain. Someone that is thoughtful and confident”
-Show more RM fun facts + members’ opinion about him…
 
 Jin
-Jin of BTS
 Stage Name: Jin (진)
 Birth Name: Kim Seok-jin (김석진)
 Position: Sub-Vocalist, Visual
@@ -117,10 +107,8 @@ Jin Facts:
 – He made his solo debut on October 28, 2022 with the single album The Astronaut.
 – On December 13, 2022 Jin officially enlisted as an active-duty soldier. He got discharged on June 12, 2024.
 – Jin’s ideal type is a girl whose looks and personality is similar to that of a puppy, who’s good at cooking, kind and takes good care of him.
-Show more Jin fun facts + members’ opinion about him
 
 Suga
-Suga of BTS
 Stage Name: Suga (슈가)
 Birth Name: Min Yoon-gi (민윤기)
 Position: Lead Rapper
@@ -155,10 +143,8 @@ Suga Facts:
 – He made his official solo debut on April 21, 2023, with the full-length album D-Day.
 – Suga started his military service on September 22, 2023. He was discharged on June 21, 2025.
 – Suga’s ideal type is someone who likes music, especially hip-hop. He says he doesn’t really care about looks.
-Show more Suga fun facts + members’ opinion about him…
 
 J-Hope
-j-hope of BTS
 Stage Name: J-Hope (제이홉)
 Birth Name: Jung Ho-seok (정호석)
 Position: Main Dancer, Sub-Rapper, Sub-Vocalist
@@ -198,10 +184,8 @@ J-Hope Facts:
 – He made his official solo debut on July 15, 2022 with the album Jack In The Box.
 – On April 18, 2023, J-Hope started his military service. He was discharged on October 17, 2024.
 – J-Hope’s ideal type is a girl who loves him, is good at cooking, and thinks a lot.
-Show more J-Hope fun facts + members’ opinion about him…
 
 Jimin
-Jimin of BTS
 Stage Name: Jimin (지민)
 Birth Name: Park Ji-min (박지민)
 Position(s): Main Dancer, Lead Vocalist
@@ -235,12 +219,8 @@ Jimin Facts:
 – He made his solo debut on March 24, 2023 with the mini album Face.
 – Jimin and Jungkook enlisted on December 12, 2023. He was discharged on June 11, 2025.
 – Jimin’s ideal type is a nice and cute girl who is smaller than him.
-Show more Jimin fun facts + members’ opinion about him…
-or
-Quiz: How well do you know Jimin?
 
 V
-V of BTS
 Stage Name: V (뷔)
 Birth Name: Kim Tae-hyung (김태형)
 Position(s): Sub-Vocalist, Visual
@@ -278,12 +258,8 @@ V Facts:
 – He made his solo debut on September 8, 2023 with the mini album Layover.
 – On December 11, 2023, V and RM officially enlisted at the Korean Army Training Center in Nonsan. V was discharged on June 10, 2025.
 – V’s ideal type is someone who takes care of him and loves only him and who has a lot of aegyo.
-Show more V fun facts + members’ opinion about him…
-or
-Quiz: How well do you know V (Taehyung)?
 
 Jung Kook
-JungKook of BTS
 Stage Name: Jung Kook / Jungkook (정국)
 Birth Name: Jeon Jung-kook (전정국)
 Position(s): Main Vocalist, Lead Dancer, Sub-Rapper, Center, Maknae
@@ -318,7 +294,6 @@ Jung Kook Facts:
 – He made his solo debut on July 14, 2023 with the digital single “Seven“.
 – Jungkook and Jimin enlisted on December 12, 2023. He was discharged on June 11, 2025.
 – Jung Kook’s ideal type is someone who’s at least 168 cm but smaller than him, is a good wife, good at cooking, smart, has pretty legs, and is nice. Also a girl who likes him and is good at singing.
-Show more Jungkook fun facts + members’ opinion about him…
 
 Note 2: The listed heights are taken from BTS’s official site and their Naver official profile, but the profile was updated when members later confirmed other heights. Jin confirmed his current height is 179.5 cm (he said he is 1.5 cm shorter than RM), V confirmed his height is 178.8 cm (“Let’s BTS” March 29, 2021), Jungkook confirmed his height is 177 cm (“Stationhead Radio” Oct 1, 2023).
 
