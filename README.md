@@ -14,6 +14,10 @@
      Example: "Student reviews of CS professors at [university] — useful because official
      course descriptions don't reflect teaching style, exam difficulty, or workload." -->
 
+The history of K-pop idol groups across generations — group formation, member lineups and positions, debut eras, agencies, fandoms, lineup changes (departures, disbandments, reunions), and how group concepts shifted over time. The corpus spans first-generation groups (H.O.T., S.E.S.), second generation (BIGBANG, Girls' Generation, SHINee, 2NE1), third generation (EXO, BTS, BLACKPINK), and fourth generation (aespa).
+
+This knowledge is valuable but hard to find through official channels because agencies present only the current, promotional view of a group. Official pages focus on the active roster and upcoming releases — they rarely document former members, the circumstances of a disbandment, contract disputes, or where a group sits in the broader generational timeline. That historical and cross-group context lives in fan-maintained profile sites, forums, and community wikis, where it's accurate but scattered across many separate pages. A retrieval system over these sources answers comparative, cross-cutting questions that no single official page covers.
+
 ---
 
 ## Document Sources

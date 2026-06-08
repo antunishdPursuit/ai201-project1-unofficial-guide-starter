@@ -11,6 +11,10 @@
 
 <!-- What domain did you choose? Why is this knowledge valuable and hard to find through official channels? -->
 
+The history of K-pop idol groups across generations — focusing on group formation, member lineups, debut eras, agencies, fandoms, lineup changes (additions, departures, disbandments, reunions), and how group concepts and styles evolved from the first generation (H.O.T., S.E.S.) through the fourth (aespa).
+
+This knowledge is valuable but hard to find through official channels because agencies and the groups themselves rarely publish a consolidated, factual history. Official sites are promotional and current-roster focused — they don't document former members, disbandment circumstances, contract disputes, or how a group fit into the broader generational timeline. That context is scattered across fan-maintained profile sites (e.g., kprofiles.com), forums, and community wikis, where it's accurate but fragmented across many pages and never indexed in one place. A retrieval system over these sources lets a user ask cross-cutting questions ("which second-generation girl groups broke from the cute concept?") that no single official page answers.
+
 ---
 
 ## Documents
